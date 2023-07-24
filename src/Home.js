@@ -157,7 +157,7 @@ function Home() {
               </div>
             </Col>
             <Col md={4} sm={12}>
-              <div className="divRight wow bounceInUp" data-wow-duration="2s" data-wow-delay="0.3s">
+              <div style={{marginTop:"-50px"}} className="divRight wow bounceInUp" data-wow-duration="2s" data-wow-delay="0.3s">
                 <h5>REASON 2</h5>
                 <h3>Unbelievable Performance</h3>
                 <img src="images/62966cbb57bfa16e79fe8406_undraw_data_re_80ws 1 (1).svg" alt="" />
